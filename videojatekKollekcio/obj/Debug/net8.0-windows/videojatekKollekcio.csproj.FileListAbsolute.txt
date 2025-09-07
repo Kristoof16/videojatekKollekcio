@@ -1,0 +1,16 @@
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.exe
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.deps.json
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.runtimeconfig.json
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.dll
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.pdb
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.Form1.resources
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.csproj.GenerateResource.cache
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.AssemblyInfoInputs.cache
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.AssemblyInfo.cs
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.csproj.CoreCompileInputs.cache
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.dll
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\refint\videojatekKollekcio.dll
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.pdb
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.genruntimeconfig.cache
+C:\Users\zolta\source\repos\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\ref\videojatekKollekcio.dll
