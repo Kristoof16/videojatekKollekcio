@@ -49,34 +49,15 @@ namespace videojatekKollekcio
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox2.Items.Clear();
-
-            if (textBox3.Text.Length == 0)
-            {
-                MessageBox.Show("Nincs megadva fejlesztõ a kereséshez!", "Hiba", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
-            foreach (Jatek elem in jatekPeldanyok)
-            {
-                if (elem.Fejleszto.Equals(textBox3.Text) && elem.Cim.Equals(textBox4.Text) == false)
-                {
-                    listBox2.Items.Add(elem.Cim);
-                }
-            }
-
-            if (textBox3.Text.Length != 0 && listBox2.Items.Count == 0)
-            {
-                MessageBox.Show("Az adott fejlesztõnek nincs több játéka a listában!", "Információ", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+            
         }
 
         private void kilépésToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Close();
+            
         }
     }
 }
 
-//jatekokLista.Add(jatek);
 
 
